@@ -46,7 +46,7 @@ MENU_HIGHLIGHT_COLOR_NAMES = [
     "white", 
     "green", 
     "orange", 
-    "blue"
+    "blue",
 ]
 
 _MENU_HIGHLIGHT_COLORS = {
