@@ -72,7 +72,7 @@ _default_active_menu_item = ui_colors.get("active_menu_item")
 
 def _apply_active_menu_item_color(ctx):
     import settings as _settings
-    
+
     key = _settings.get("menu_highlight_color", "theme")
     if not key or key == "theme":
         color = _default_active_menu_item
