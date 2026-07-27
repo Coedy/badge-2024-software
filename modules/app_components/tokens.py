@@ -40,12 +40,12 @@ ui_colors = frontboard.ui_colors
 # Keys are stored in settings under "menu_highlight_color".
 # "theme" restores the frontboard's default active_menu_item colour.
 MENU_HIGHLIGHT_COLOR_NAMES = [
-    "theme", 
-    "yellow", 
-    "pink", 
-    "white", 
-    "green", 
-    "orange", 
+    "theme",
+    "yellow",
+    "pink",
+    "white",
+    "green",
+    "orange",
     "blue",
 ]
 
